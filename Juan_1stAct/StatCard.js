@@ -16,10 +16,12 @@ const styles = StyleSheet.create({
         borderRadius: 12,
         marginVertical: 10,
         width: '100%',
+        color: '#05eeff',
+
     },
     title:{
-        fontSize: 16,
-        color: '#ffffff',
+        fontSize: 15,
+        color: '#cc00ff',
         fontWeight: 600,
     },
     value:{

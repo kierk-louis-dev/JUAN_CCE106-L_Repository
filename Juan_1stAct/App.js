@@ -5,18 +5,18 @@ export default function App() {
     <View style={styles.container}>
       <Text style= {styles.header}>My Custom dashboard</Text>
       <StatCard 
-        title= "Total Users"
+        title= "Total Users 👥"
         Value= "1,240"
         bgColor="#4f46e5"
       />
       <StatCard 
-        title= "Revenue"
+        title= "Revenue 💵"
         Value= "$12,450"
         bgColor="#059669"
       />
 
       <StatCard 
-        title= "Pending Issues"
+        title= "Pending Issues ⌛"
         Value= "3"
         bgColor="#d97706"
       />
@@ -28,7 +28,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: '#580000',
     padding: 20,
     paddingTop: 60,
   },
