@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "LastName_FlatlistAct",
+    "slug": "lastname-flatlistact",
+    "scheme": "flatlistact",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": {},
+    "plugins": ["expo-router"]
+  }
+}
